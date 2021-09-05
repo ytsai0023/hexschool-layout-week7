@@ -1,0 +1,36 @@
+.d-flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.mt-48px{
+    margin-top: 3rem;
+}
+
+.mb-56px{
+    margin-bottom: 3.5rem;
+}
+.mb-144px{
+    margin-bottom: 9rem;
+}
+.pt-16px{
+    margin-top: 1rem;
+}
+
+.text-center{
+    text-align: center;
+}
